@@ -32,8 +32,8 @@
   ], 
   "skills": 
   [ 
-    {"skill": "Swift", "level": "4"}, 
-    {"skill": "AutoLayout", "level": "5"}, 
-    {"skill": "Cocoapods", "level": "3"} 
+    {"skill": "Swift", "level": 4}, 
+    {"skill": "AutoLayout", "level": 5}, 
+    {"skill": "Cocoapods", "level": 3} 
   ]
 }
